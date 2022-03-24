@@ -1,6 +1,6 @@
 # Case Study of
 
-![SwyftX Logo](https://mlrx8gndx5uy.i.optimole.com/pzVa-78.bu9T~4190b/w:151/h:54/q:100/https://swyftx.com/wp-content/themes/swyftx/images/logo-white.svg)
+<img src="SwyftX Logo.PNG" alt="drawing" width="200"/>
 
 [Image Source: SwyftX (2021)](https://swyftx.com/au/about/) 
 
