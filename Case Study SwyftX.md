@@ -1,8 +1,10 @@
 # Case Study of
 
-<img src="SwyftX Logo.PNG" alt="drawing" width="200"/>
+<img src="SwyftX Logo.PNG" alt="drawing" width="400"/>
 
 [Image Source: SwyftX (2021)](https://swyftx.com/au/about/) 
+
+*By: Matthew Lewis, (24 March 2022)*
 
 ---
 ## Table of Contents
